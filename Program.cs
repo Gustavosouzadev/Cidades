@@ -23,6 +23,7 @@ namespace cidades
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Mongaguá, \"Aguá Pegajosa\"");
             Console.ResetColor();
+            
             Console.Beep();
         }
     }
